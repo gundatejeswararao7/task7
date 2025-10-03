@@ -1,0 +1,63 @@
+Extensions and there permissions,review and so on:
+1.uBlock Origin
+Purpose: Blocks ads, trackers, and malware domains.
+Permissions: Needs access to all websites (to filter requests).
+Reputation: Excellent, open-source, widely trusted.
+Risk: ✅ Low
+Recommendation: Keep — one of the safest privacy tools.
+
+2. Grammarly for Firefox
+Purpose: Writing assistant.
+Permissions: Access data on all websites (to check writing).
+Reputation: Legitimate company, but high access → may capture sensitive inputs.
+Risk: ⚠️ Medium
+Recommendation: Keep if needed, but disable on sensitive sites (banking, medical portals).
+
+3. Honey
+Purpose: Finds coupon codes.
+Permissions: Shopping-related site data, can read and change web requests.
+Reputation: Owned by PayPal, but collects purchase data.
+Risk: ⚠️ Medium
+Recommendation: Optional — remove if you don’t shop online often.
+
+4. Video DownloadHelper
+Purpose: Download media from websites.
+Permissions: Broad web access, file storage.
+Reputation: Popular, but past concerns about bundled software.
+Risk: ❌ Medium–High
+Recommendation: Remove unless essential.
+
+5. LastPass Password Manager
+Purpose: Save and auto-fill passwords.
+Permissions: Full web access, autofill forms, manage saved credentials.
+Reputation: Widely used, but multiple security breaches in the past.
+Risk: ⚠️ Medium (trusted tool, but target for hackers).
+Recommendation: Keep only if you trust LastPass. Alternatives (Bitwarden, 1Password) may be safer.
+
+6. DuckDuckGo Privacy Essentials
+Purpose: Privacy protection, tracker blocking, enforce HTTPS.
+Permissions: Needs site access to block trackers.
+Reputation: Strong reputation, trusted developer.
+Risk: ✅ Low
+Recommendation: Keep — good for privacy.
+
+7. Avast Online Security
+Purpose: Security add-on from antivirus vendor.
+Permissions: Broad permissions, monitors browsing.
+Reputation: Mixed — some antivirus extensions log browsing habits.
+Risk: ❌ Medium–High (possible tracking).
+Recommendation: Remove unless necessary — often redundant if you already use AV software.
+
+8. ColorZilla
+Purpose: Developer tool to pick colors from web pages.
+Permissions: Limited access, mostly harmless.
+Reputation: Legitimate, long-standing extension.
+Risk: ✅ Low
+Recommendation: Keep if needed for web design work.
+
+9. Search Manager Pro (Unknown Publisher)
+Purpose: Hijacks search engine/homepage.
+Permissions: Change browser settings, all-site access.
+Reputation: Poor, flagged as adware.
+Risk: 🚨 High
+Recommendation: Remove immediately, reset Firefox search settings, run malware scan.
